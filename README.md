@@ -1,5 +1,6 @@
 # opener-docker-tokenizer
 
+[![Deploy to Azure](https://azuredeploy.net/deploybutton.svg)](https://azuredeploy.net/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/cwolff/opener-docker-tokenizer.svg)](https://hub.docker.com/r/cwolff/opener-docker-tokenizer/)
 
 Dockerfile for OpeNER tokenizer service.
